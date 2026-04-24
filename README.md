@@ -22,7 +22,7 @@ Data Processing: PyPDF2 (Parsing) & Regular Expressions (Cleaning)
 
 State Management: Streamlit Session State
 
- How It Works
+How It Works
 Upload: User uploads a PDF policy document via the sidebar.
 
 Sanitize: The system runs a re (Regex) pipeline to clean the text.
