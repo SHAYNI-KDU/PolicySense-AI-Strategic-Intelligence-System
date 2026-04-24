@@ -88,7 +88,7 @@ def setup_page():
         """, unsafe_allow_html=True)
 
 # 2. AI & DATA CORE 
-GEMINI_API_KEY = "AIzaSyBP9UyNy3X5OhtJKrBLN5gaX2ohj5ACHcg"  # Replace with your actual API key
+GEMINI_API_KEY =   # Replace with your actual API key
 
 def get_working_model():
     if not GEMINI_API_KEY:
