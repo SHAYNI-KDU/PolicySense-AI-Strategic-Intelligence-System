@@ -1,4 +1,5 @@
-PolicySense AI: Strategic Intelligence System
+### PolicySense AI: Strategic Intelligence System ###
+
 PolicySense AI is a specialized tool designed to transform dense, unstructured policy documents into actionable strategic insights. By leveraging Large Language Models (LLMs) and advanced NLP preprocessing, the system automates metadata extraction, generates executive summaries, and provides an interactive scenario-based chatbot for policy testing.
 
 Key Features
